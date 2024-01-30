@@ -1,0 +1,6 @@
+{
+    "className": "Terrain",
+    "properties": {
+        "Decoration": true
+    }
+  }

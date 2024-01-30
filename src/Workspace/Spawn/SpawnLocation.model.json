@@ -1,0 +1,12 @@
+{
+    "className": "SpawnLocation",
+    "properties": {
+      "Anchored": true,
+      "Color": [1, 1, 1],
+      "Locked": true,
+      "Position": [-30.25, 10.5, 0],
+      "Orientation": [0, 0, 0],
+      "Size": [12, 1, 12],
+      "Transparency": 0
+    }
+  }

@@ -1,0 +1,10 @@
+{
+    "ClassName": "Folder",
+    "attributes": {
+        "active": false,
+        "display": "None",
+        "map": "None",
+        "mode": "None",
+        "timer": 0
+    }
+}

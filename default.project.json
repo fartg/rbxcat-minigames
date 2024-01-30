@@ -1,0 +1,56 @@
+{
+  "name": "rbxcat-minigames",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+        "$className": "ReplicatedStorage",
+        "$path": "src/ReplicatedStorage"
+    },
+
+    "ServerScriptService": {
+        "$className": "ServerScriptService",
+        "rbxcat": {
+          "$path": "src/ServerScriptService"
+        }
+    },
+
+    "StarterPlayer": {
+      "$className": "StarterPlayer",
+      "StarterPlayerScripts": {
+          "$className": "StarterPlayerScripts",
+          "$path": "src/StarterPlayerScripts"
+      }
+    },
+
+    "ServerStorage": {
+      "$className": "ServerStorage",
+      "$path": "src/ServerStorage"
+    },
+
+    "Workspace": {
+      "$properties": {
+        "FilteringEnabled": true
+      },
+      "$path": "src/Workspace"
+    },
+    "Lighting": {
+      "$properties": {
+        "Ambient": [
+          0,
+          0,
+          0
+        ],
+        "Brightness": 2,
+        "GlobalShadows": true,
+        "Outlines": false,
+        "Technology": "Voxel"
+      }
+    },
+    "SoundService": {
+      "$properties": {
+        "RespectFilteringEnabled": true
+      }
+    }
+  }
+}

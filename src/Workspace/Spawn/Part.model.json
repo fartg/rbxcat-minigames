@@ -1,0 +1,12 @@
+{
+    "className": "Part",
+    "properties": {
+      "Anchored": true,
+      "Color": [1, 1, 1],
+      "Locked": true,
+      "Position": [-30.125, 9.5, 0.073],
+      "Orientation": [0, 0, 0],
+      "Size": [41.75, 1, 42.854],
+      "Transparency": 0
+    }
+  }
